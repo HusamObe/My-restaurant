@@ -1,4 +1,4 @@
 # My-restaurant
 # **Hash w Nash** 
-![wirefarme](Brainstorming.jpg)
+![wirefarme](Brainstorming.png)
 
